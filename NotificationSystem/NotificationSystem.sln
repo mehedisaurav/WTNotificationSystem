@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationClient", "NotificationClient.csproj", "{970BA898-C779-4BC3-98E3-C6A0C7DE6063}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationLibrary", "..\NotificationLibrary\NotificationLibrary.csproj", "{A4FB0D46-6905-4605-B9C6-C5AEDE41171B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{970BA898-C779-4BC3-98E3-C6A0C7DE6063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970BA898-C779-4BC3-98E3-C6A0C7DE6063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970BA898-C779-4BC3-98E3-C6A0C7DE6063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970BA898-C779-4BC3-98E3-C6A0C7DE6063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4FB0D46-6905-4605-B9C6-C5AEDE41171B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FB0D46-6905-4605-B9C6-C5AEDE41171B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FB0D46-6905-4605-B9C6-C5AEDE41171B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FB0D46-6905-4605-B9C6-C5AEDE41171B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C188D0E-7841-4205-9997-F9FD657B4842}
+	EndGlobalSection
+EndGlobal

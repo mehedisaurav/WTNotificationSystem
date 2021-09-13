@@ -1,0 +1,8 @@
+D:\WTNotificationSystem\NotificationLibrary\bin\Debug\netcoreapp3.1\NotificationLibrary.deps.json
+D:\WTNotificationSystem\NotificationLibrary\bin\Debug\netcoreapp3.1\NotificationLibrary.dll
+D:\WTNotificationSystem\NotificationLibrary\bin\Debug\netcoreapp3.1\NotificationLibrary.pdb
+D:\WTNotificationSystem\NotificationLibrary\obj\Debug\netcoreapp3.1\NotificationLibrary.csprojAssemblyReference.cache
+D:\WTNotificationSystem\NotificationLibrary\obj\Debug\netcoreapp3.1\NotificationLibrary.AssemblyInfoInputs.cache
+D:\WTNotificationSystem\NotificationLibrary\obj\Debug\netcoreapp3.1\NotificationLibrary.AssemblyInfo.cs
+D:\WTNotificationSystem\NotificationLibrary\obj\Debug\netcoreapp3.1\NotificationLibrary.dll
+D:\WTNotificationSystem\NotificationLibrary\obj\Debug\netcoreapp3.1\NotificationLibrary.pdb
