@@ -3,6 +3,7 @@ using NotificationLibrary.Application.ManageEmployee.Commands;
 using NotificationLibrary.Application.ManageEmployee.Models;
 using NotificationLibrary.Application.ManageLeave.Commands;
 using NotificationLibrary.Application.ManageMyProfile.Commands;
+using NotificationLibrary.NotificationServices;
 using NotificationSystem.Infrastructure;
 using System;
 
@@ -15,7 +16,7 @@ namespace NotificationSystem
             Console.WriteLine("WT Notification System");
 
             #region Manage Employee
-            EmployeeActionCommand employeeAction = new EmployeeActionCommand();
+            EmployeeActionCommand employeeAction = new EmployeeActionCommand(new NotificationService());
 
             employeeAction.UpsertEmployee(new EmployeeViewModel
             {
@@ -40,6 +41,8 @@ namespace NotificationSystem
                 UserId = 1,
                 ManagerId = 1
             });
+
+
             #endregion
 
             #region Manage Leave
